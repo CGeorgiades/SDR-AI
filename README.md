@@ -6,7 +6,9 @@
  Additionally, ensure tkinter is available on your system
  
  To train the network, run `trainNet.py`. You may specify at the command line what file name it should output to, otherwise it defaults to simply "Net". If the file passed is already a network, then it will train starting with that network
+ 
+ ![](assets/Training%20Commandline.png)
+
  To run the user GUI guesser, run `painter.py`
  
- ![assets/Training Commandline.png]
- ![assets/Guessing User.png]
+ ![](assets/Guessing%20User.png)
